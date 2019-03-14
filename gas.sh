@@ -1,0 +1,1 @@
+echo "Gas value above threshold. DANGER!!!" | ssmtp mohitvars.zhcet@gmail.com
